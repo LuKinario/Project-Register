@@ -1,6 +1,6 @@
 // pages/index.js
 
-import RegisterForm from "../components/RegisterForm";
+import RegisterForm from "../components/RegisterForm.jsx";
 
 export default function Home() {
   return (
