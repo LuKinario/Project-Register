@@ -1,6 +1,4 @@
-// pages/api/users.js
-
-let users = []; // Armazenamento em memória
+let users = []; // Arm Memória
 
 export default function handler(req, res) {
   switch (req.method) {

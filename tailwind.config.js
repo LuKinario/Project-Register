@@ -1,5 +1,3 @@
-// tailwind.config.js
-
 const { default: daisyui } = require("daisyui");
 
 module.exports = {
